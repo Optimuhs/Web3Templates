@@ -1,0 +1,6 @@
+[submodule "template-hardhat"]
+	path = template-hardhat
+	url = git@github.com:Optimuhs/template-hardhat.git
+[submodule "hardhat"]
+	path = hardhat
+	url = git@github.com:Optimuhs/template-hardhat.git
